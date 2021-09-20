@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="65a97cc0-bed6-4ac9-854a-5745bf61ba4f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1tzaH2g9FFeN7yzWPAHMPk4Houn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ROG\Desktop\appn\E-Commerce-app-In-Flutter-master\images" />
+      <recent name="C:\Users\ROG\Desktop\appn\E-Commerce-app-In-Flutter-master\dev_assets" />
+      <recent name="C:\Users\ROG\Desktop\appn\E-Commerce-app-In-Flutter-master\android\app" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="65a97cc0-bed6-4ac9-854a-5745bf61ba4f" name="Default Changelist" comment="" />
+      <created>1623774279380</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1623774279380</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="360" y="164" width="1072" height="500" key="AVDManager" timestamp="1624079140751">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="360" y="164" width="1072" height="500" key="AVDManager/0.0.1536.864@0.0.1536.864" timestamp="1624079140751" />
+    <state x="586" y="179" key="AndroidProcessChooserDialog" timestamp="1623795556285">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="586" y="179" key="AndroidProcessChooserDialog/0.0.1536.864@0.0.1536.864" timestamp="1623795556285" />
+    <state width="1491" height="113" key="GridCell.Tab.0.bottom" timestamp="1624067742865">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1491" height="113" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1624067742865" />
+    <state width="1491" height="113" key="GridCell.Tab.0.center" timestamp="1624067742865">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1491" height="113" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1624067742865" />
+    <state width="1491" height="113" key="GridCell.Tab.0.left" timestamp="1624067742865">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1491" height="113" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1624067742865" />
+    <state width="1491" height="113" key="GridCell.Tab.0.right" timestamp="1624067742865">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1491" height="113" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1624067742865" />
+  </component>
+</project>
